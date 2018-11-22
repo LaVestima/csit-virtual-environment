@@ -1,0 +1,4 @@
+ERROR: No vicinity algorithm parameter specified!
+
+
+DONE
